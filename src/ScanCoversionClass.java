@@ -8,6 +8,15 @@ import static java.lang.Math.abs;
 import static java.lang.Math.round;
 import static java.lang.Math.sqrt;
 
+/***
+
+Created By Anonymous
+29/06/2019
+
+***/
+
+
+
 public class LineClipping {
     private static int flag=0;
     private static int flag1=0;
